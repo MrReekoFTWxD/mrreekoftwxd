@@ -17,7 +17,7 @@
 
 - Working on the plugins for *Sorex IW6x Trickshot/Sniper Server*
 - I do random research on different games gonna start releasing more of that research soon!
-- **Asgard** is the name of my research projects there nothing I plan to like release something on but will release research about the games those projects are for
+- **Asgard** is the name of my research projects they're nothing I plan to release.
 ---
 
 ##### Languages and Tools:
