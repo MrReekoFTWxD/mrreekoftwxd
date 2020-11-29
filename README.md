@@ -13,7 +13,7 @@
   
   - MWR: D3D11 Menu for Ayria(Offline Play Only) Mostly remaking of old COD bugs/features 
   - IW7: D3D11 Menu for Steam random stuff looking how the game is hashed
-  - Dying Light Steam for me to learn Chrome Engine 6
+  - Dying Light: D3D11 Menu for Steam for me to learn Chrome Engine 6
 
 - Working on the plugins for *Sorex IW6x Trickshot/Sniper Server*
 - I do random research on different games gonna start releasing more of that research soon!
