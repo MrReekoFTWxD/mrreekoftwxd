@@ -15,7 +15,7 @@
   - IW7: D3D11 Menu for Steam random stuff looking how the game is hashed
   - Dying Light: D3D11 Menu for Steam for me to learn Chrome Engine 6
 
-- Working on the plugins for *Sorex IW6x Trickshot/Sniper Server*
+- Trying to open source more of my research but forget to release it alot!
 - I do random research on different games gonna start releasing more of that research soon!
 - **Asgard** is the name of my research projects, they're nothing I plan to release.
 ---
