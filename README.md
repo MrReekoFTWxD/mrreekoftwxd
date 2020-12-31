@@ -9,14 +9,13 @@
 
 ##### What I do:
 - I make random things in C++
-- Currently doing stuff for *MWR*, *IW7*, *Dying Light*  
+- Currently Projects  
   
-  - MWR: D3D11 Menu for Ayria(Offline Play Only) Mostly remaking of old COD bugs/features 
-  - IW7: D3D11 Menu for Steam random stuff looking how the game is hashed
+  - BO3ZM Xbox: Offhost 
+  - Some reversing for Older Cods will release address and functions/structs 
   - Dying Light: D3D11 Menu for Steam for me to learn Chrome Engine 6
 
 - Trying to open source more of my research but forget to release it alot!
-- I do random research on different games gonna start releasing more of that research soon!
 - **Asgard** is the name of my research projects, they're nothing I plan to release.
 ---
 
