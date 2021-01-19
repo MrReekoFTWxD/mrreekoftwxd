@@ -34,6 +34,5 @@
 </br>
 
 ---
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@MrReeko&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrReekoFTWxD&layout=compact&theme=dracula)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MrReekoFTWxD&show_icons=true&theme=dracula)
