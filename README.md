@@ -11,7 +11,7 @@
 - I make random things in C++
 - Currently Projects  
   
-  - Learning how to do stuff for PS4
+  - No Idea
 
 - Trying to open source more of my research but forget to release it alot!
 - **Asgard** is the name of my research projects, they're nothing I plan to release.
