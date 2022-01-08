@@ -9,7 +9,7 @@
 
 ##### What I do:
 - I make random things in C++
-- Currently Projects  
+- Projects Currently   
   
   - No Idea
 
