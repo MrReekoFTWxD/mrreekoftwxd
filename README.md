@@ -14,6 +14,11 @@
   - No Idea
 
 - **Asgard** is the name of my research projects, they're nothing I plan to release.
+
+<p align="center">
+  <img src="https://c.tenor.com/K9-SqJMNjkEAAAAC/emotional-damage.gif" />
+</p>
+
 ---
 
 ##### Languages and Tools:
