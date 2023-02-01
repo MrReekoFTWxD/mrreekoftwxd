@@ -9,11 +9,7 @@
 
 ##### What I do:
 - I make random things in C++
-- Projects Currently   
-  
-  - No Idea
 
-- **Asgard** is the name of my research projects, they're nothing I plan to release.
 
 <p align="center">
   <img src="https://c.tenor.com/K9-SqJMNjkEAAAAC/emotional-damage.gif" />
