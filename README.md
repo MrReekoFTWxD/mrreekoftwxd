@@ -8,7 +8,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/MrReekoFTWxD?affiliations=OWNER&color=%234183c4&label=Github%20Stars&logo=github&style=for-the-badge)
 
 ##### What I do:
-- Currently Learning Unreal Engine 4-5 
+- Random small projects, havent really found anything I want to put alot of time into
 
 
 
