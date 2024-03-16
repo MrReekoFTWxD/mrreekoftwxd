@@ -1,7 +1,6 @@
 ### Hi there, I'm MrReeko 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/MrReekoTV?color=%234183c4&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMrReekoTV&screen_name=MrReekoTV)
-[![Discord](https://img.shields.io/twitter/url?color=%234183c4&label=Discord&logo=discord&style=for-the-badge&url=https%3A%2F%2Fdiscord.gg%2FAMTDZvC)](https://discord.gg/BmpaEsHYcX)
 [![Twitch Status](https://img.shields.io/twitch/status/MrReekoFTWxD?color=%234183c4&logo=Twitch&style=for-the-badge)](https://twitch.tv/MrReekoFTWxD)
 [![Youtube](https://img.shields.io/twitter/url?color=%234183c4&label=Youtube&logo=youtube&style=for-the-badge&url=https%3A%2F%2Fdiscord.gg%2FAMTDZvC)](https://www.youtube.com/channel/UCCPb7bwUiN5TKueb4pOsejQ)</br>
 ![GitHub followers](https://img.shields.io/github/followers/MrReekoFTWxD?label=Github%20Follower&logo=github&style=for-the-badge)
@@ -10,11 +9,6 @@
 ##### What I do:
 - Random small projects, havent really found anything I want to put alot of time into
 
-
-
-<p align="center">
-  <img src="https://c.tenor.com/K9-SqJMNjkEAAAAC/emotional-damage.gif" />
-</p>
 
 ---
 
